@@ -37,4 +37,4 @@ Hi, I'm Aliaksandr Shliayeu, a Full Stack Developer/Software Test Automation Eng
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://webdriver.io/img/webdriverio.png"></code>
 <code><img height="20" src="https://cdn-images-1.medium.com/max/1600/1*vaO1dChd0ZHqk-kSC3M_Zw.png"></code>
-<code><img height="20" src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/jenkins-1-logo.png"></code>
