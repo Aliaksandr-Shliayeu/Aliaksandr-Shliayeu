@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Aliaksandr Shliayeu, a Full Stack Developer/Software Test Automation Engineer  🚀 from Belarus. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Aliaksandr Shliayeu, a Senior Software Development Engineer in Test/Full Stack Developer 🚀 from Belarus. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
