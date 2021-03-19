@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Aliaksandr!](https://octys.dev) 
 
 <a href="https://shliayeu.com">
-  <img align="left" alt="Aliaksandr's web" width="22px" src="http://www.clipartbest.com/cliparts/9cR/gqj/9cRgqjj9i.png" />
+  <img align="left" alt="Aliaksandr's web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_481250.png" />
 </a>
 <a href="https://www.linkedin.com/in/aliaksandr-shliayeu-162113153/">
   <img align="left" alt="Aliaksandr's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
