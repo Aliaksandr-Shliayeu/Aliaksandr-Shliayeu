@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Aliaksandr!](https://octys.dev) 
+### Hey 👋🏽, I'm [Aliaksandr!](https://shliayeu.com) 
 
 <a href="https://shliayeu.com">
   <img align="left" alt="Aliaksandr's web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_5602.png" />
