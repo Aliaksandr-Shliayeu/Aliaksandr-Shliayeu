@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/aliaksandr-shliayeu">
   <img align="left" alt="Aliaksandr's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ali_shl">
+<a href="https://t.me/Alia_Shl">
   <img align="left" alt="Aliaksandr's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.reddit.com/user/koji6acbi4/">
