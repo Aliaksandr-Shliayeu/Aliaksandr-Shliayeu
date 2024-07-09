@@ -3,10 +3,10 @@
 <a href="https://shliayeu.com">
   <img align="left" alt="Aliaksandr's web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_5602.png" />
 </a>
-<a href="https://www.linkedin.com/in/aliaksandr-shliayeu-162113153/">
+<a href="https://www.linkedin.com/in/aliaksandr-shliayeu">
   <img align="left" alt="Aliaksandr's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/PaSancho">
+<a href="https://t.me/ali_shl">
   <img align="left" alt="Aliaksandr's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.reddit.com/user/koji6acbi4/">
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi, I'm Aliaksandr Shliayeu, a Senior SDET/Full Stack Developer 🚀 from Belarus. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Aliaksandr Shliayeu, a lead SDET/Full Stack Developer 🚀 from Belarus. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
